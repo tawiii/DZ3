@@ -1,0 +1,16 @@
+.main{
+	float: left;
+	padding-left: 48px;
+	
+
+	&_cycle{
+		border:1px solid #c8c8c8;
+		margin-bottom: 35px;
+	}
+	&_lorem{
+		margin:0 0 63px 25px;
+		width: 630px;
+		line-height: 21px;
+		font-size: 13px;
+	}
+}

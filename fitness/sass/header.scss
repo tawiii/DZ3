@@ -1,0 +1,67 @@
+	.menu{
+			margin:42px 0 40px 0;
+			background: linear-gradient(to top, #444343, #5e5e5e);
+			font-size: 0;
+
+	&_item{
+			display: inline-block;
+			line-height: 40px;
+			font-size: 15px;
+		}
+
+	&__one{
+			display: block;
+			width: 60px;
+			padding-left: 25px;
+			padding-right: 25px;
+			margin-right: 34px;
+			color:#fff;
+			&:hover{
+				width: 58px;
+				background: linear-gradient(to top, #2e2e2e, #4a4a4a);
+				border-left: 1px solid #838383;
+				border-right: 1px solid #838383;
+			}
+		}
+	&__two{
+			display: block;
+			width: 55px;
+			padding-left: 22px;
+			padding-right: 23px;
+			margin-right: 34px;
+			color:#fff;
+			&:hover{
+				width: 53px;
+				background: linear-gradient(to top, #2e2e2e, #4a4a4a);
+				border-left: 1px solid #838383;
+				border-right: 1px solid #838383;
+			}
+		}
+	&__tree{
+			display: block;
+			width: 50px;
+			padding-left: 25px;
+			padding-right: 25px;
+			margin-right: 34px;
+			color:#fff;
+			&:hover{
+				width: 48px;
+				background: linear-gradient(to top, #2e2e2e, #4a4a4a);
+				border-left: 1px solid #838383;
+				border-right: 1px solid #838383;
+			}
+		}
+	&__four{
+			display: block;
+			width: 70px;
+			padding-left: 25px;
+			padding-right: 34px;
+			color:#fff;
+			&:hover{
+				width: 58px;
+				background: linear-gradient(to top, #2e2e2e, #4a4a4a);
+				border-left: 1px solid #838383;
+				border-right: 1px solid #838383;
+			}
+		}
+	}
